@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -17,7 +17,7 @@ title: test jekyll
 email: 2209982115@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   test
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://xmercenary.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: XMercenary
 github_username:  XMercenary
